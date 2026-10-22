@@ -1,158 +1,262 @@
 [
   {
     "id": 1,
-    "category": "Formar frases",
-    "question": "Choose the correct sentence: «Yo estoy cansado».",
-    "hint": "En inglés necesitas sujeto + verbo to be + complemento.",
+    "category": "Jobs",
+    "question": "What is “electrician” in Spanish?",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "I tired.",
-      "I am tired.",
-      "Am tired I."
+      "Ingeniero eléctrico",
+      "Electricista",
+      "Operario de central eléctrica"
     ],
     "answer": 1,
-    "explanation": "La estructura correcta es I + am + tired. En inglés normalmente no se omite el sujeto."
+    "explanation": "“Electrician” significa electricista."
   },
   {
     "id": 2,
-    "category": "To be",
-    "question": "She ___ my friend.",
-    "hint": "Con he / she / it usamos is.",
+    "category": "Jobs",
+    "question": "Who designs electrical systems, devices and components?",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "am",
-      "are",
-      "is"
+      "An electrical engineer",
+      "A driver",
+      "A florist"
     ],
-    "answer": 2,
-    "explanation": "Se dice “She is my friend”. “Am” se usa con I y “are” con you, we y they."
+    "answer": 0,
+    "explanation": "El temario define al electrical engineer como la persona que diseña sistemas, dispositivos y componentes eléctricos."
   },
   {
     "id": 3,
-    "category": "Presente simple",
-    "question": "He ___ English every day.",
-    "hint": "Con he / she / it, el presente simple normalmente lleva -s.",
+    "category": "Jobs",
+    "question": "A power plant operator maintains…",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "study",
-      "studies",
-      "studying"
+      "TV adverts",
+      "power plants that produce energy",
+      "solar panels only"
     ],
     "answer": 1,
-    "explanation": "“Study” cambia a “studies” con he/she/it."
+    "explanation": "Un power plant operator mantiene centrales eléctricas que producen energía."
   },
   {
     "id": 4,
-    "category": "Negativas",
-    "question": "I ___ understand.",
-    "hint": "Para negar en presente simple con I usamos don't + verbo base.",
+    "category": "Qualities",
+    "question": "What is the opposite of “reliable”?",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "doesn't",
-      "don't",
-      "not"
+      "Responsible",
+      "Unreliable",
+      "Polite"
     ],
     "answer": 1,
-    "explanation": "La forma correcta es “I don't understand”."
+    "explanation": "Reliable significa fiable; unreliable significa poco fiable."
   },
   {
     "id": 5,
-    "category": "Preguntas",
-    "question": "___ you speak English?",
-    "hint": "Con you usamos Do para hacer preguntas en presente simple.",
+    "category": "Qualities",
+    "question": "“Careful” means…",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "Does",
-      "Do",
-      "Are"
+      "Cuidadoso",
+      "Perezoso",
+      "Desordenado"
     ],
-    "answer": 1,
-    "explanation": "Se dice “Do you speak English?” porque speak es un verbo de acción en presente simple."
+    "answer": 0,
+    "explanation": "Careful significa cuidadoso."
   },
   {
     "id": 6,
-    "category": "To be",
-    "question": "Choose the correct negative: «Ella no está aquí».",
-    "hint": "She + is not / isn't.",
+    "category": "Qualities",
+    "question": "Choose a positive quality for an electrician.",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "She don't here.",
-      "She isn't here.",
-      "She not is here."
+      "Irresponsible",
+      "Dishonest",
+      "Hard-working"
     ],
-    "answer": 1,
-    "explanation": "La forma natural es “She isn't here”."
+    "answer": 2,
+    "explanation": "Hard-working significa trabajador; es una cualidad positiva en el texto."
   },
   {
     "id": 7,
-    "category": "Vocabulario",
-    "question": "What does “Could you repeat that, please?” mean?",
-    "hint": "Es una frase útil cuando no entiendes algo.",
+    "category": "Frequency",
+    "question": "Which means “casi nunca”?",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "¿Puedes repetirlo, por favor?",
-      "¿Dónde está la estación?",
-      "Estoy aprendiendo inglés."
+      "Often",
+      "Hardly ever",
+      "Usually"
     ],
-    "answer": 0,
-    "explanation": "Es una expresión educada para pedir que repitan algo."
+    "answer": 1,
+    "explanation": "Hardly ever significa casi nunca."
   },
   {
     "id": 8,
-    "category": "Orden de palabras",
-    "question": "Choose the correct sentence.",
-    "hint": "Sujeto + verbo + complemento.",
+    "category": "Frequency",
+    "question": "Complete: “I ___ go to the cinema.” (a veces)",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "Every day English I study.",
-      "I study English every day.",
-      "Study I every day English."
+      "sometimes",
+      "never",
+      "hardly ever"
     ],
-    "answer": 1,
-    "explanation": "El orden natural es “I study English every day”."
+    "answer": 0,
+    "explanation": "Sometimes significa a veces."
   },
   {
     "id": 9,
-    "category": "Presente simple",
-    "question": "She doesn't ___ coffee.",
-    "hint": "Después de doesn't usamos el verbo en forma base.",
+    "category": "Frequency",
+    "question": "Choose the natural sentence.",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "likes",
-      "like",
-      "liking"
+      "I often ride a bike.",
+      "I ride often a bike.",
+      "Often I a bike ride."
     ],
-    "answer": 1,
-    "explanation": "Se dice “She doesn't like coffee”, sin -s en el verbo principal."
+    "answer": 0,
+    "explanation": "El adverbio de frecuencia normalmente va antes del verbo principal: I often ride…"
   },
   {
     "id": 10,
-    "category": "Frases útiles",
-    "question": "How do you say «No lo entiendo»?",
-    "hint": "Usa I don't + verbo.",
+    "category": "Preferences",
+    "question": "“I prefer advert A because…” means…",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "I am not understand.",
-      "I don't understand.",
-      "I doesn't understand."
+      "Prefiero el anuncio A porque…",
+      "Nunca leo anuncios.",
+      "Trabajo en el anuncio A."
     ],
-    "answer": 1,
-    "explanation": "La frase correcta es “I don't understand”."
+    "answer": 0,
+    "explanation": "Prefer significa preferir; because significa porque."
   },
   {
     "id": 11,
-    "category": "To be",
-    "question": "We ___ students.",
-    "hint": "Con we usamos are.",
+    "category": "Relative clauses",
+    "question": "An electrician is a person ___ repairs appliances.",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "is",
-      "are",
-      "am"
+      "where",
+      "who",
+      "when"
     ],
     "answer": 1,
-    "explanation": "Se dice “We are students”."
+    "explanation": "Who se usa para referirse a personas."
   },
   {
     "id": 12,
-    "category": "Vocabulario",
-    "question": "Complete: “I'm ___ English.” (Estoy aprendiendo inglés).",
-    "hint": "El verbo learn en -ing expresa una acción en curso.",
+    "category": "Relative clauses",
+    "question": "Madrid is the city ___ I live.",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
     "options": [
-      "learn",
-      "learning",
-      "learns"
+      "whose",
+      "when",
+      "where"
+    ],
+    "answer": 2,
+    "explanation": "Where se usa para referirse a lugares."
+  },
+  {
+    "id": 13,
+    "category": "Relative clauses",
+    "question": "2011 was the year ___ we left school.",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
+    "options": [
+      "when",
+      "who",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "When se usa para referirse a un momento o periodo de tiempo."
+  },
+  {
+    "id": 14,
+    "category": "Relative clauses",
+    "question": "I know a girl ___ brother works for Google.",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
+    "options": [
+      "where",
+      "whose",
+      "which"
     ],
     "answer": 1,
-    "explanation": "La frase completa es “I'm learning English”."
+    "explanation": "Whose expresa posesión: su hermano."
+  },
+  {
+    "id": 15,
+    "category": "Relative clauses",
+    "question": "Sony makes TVs ___ are good quality.",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
+    "options": [
+      "which",
+      "when",
+      "who"
+    ],
+    "answer": 0,
+    "explanation": "Which se usa para cosas, como TVs."
+  },
+  {
+    "id": 16,
+    "category": "Job application",
+    "question": "“I worked as an assistant for one year” means…",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
+    "options": [
+      "Trabajaré como ayudante un año.",
+      "Trabajé como ayudante durante un año.",
+      "Quiero ser ayudante."
+    ],
+    "answer": 1,
+    "explanation": "Worked es pasado de work; for one year indica durante un año."
+  },
+  {
+    "id": 17,
+    "category": "Job application",
+    "question": "Complete: “I want to work here ___ your company is an industry leader.”",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
+    "options": [
+      "because",
+      "where",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "Because significa porque y explica la razón."
+  },
+  {
+    "id": 18,
+    "category": "Job application",
+    "question": "Choose the correct phrase: “Me gusta reparar aparatos”.",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
+    "options": [
+      "I like repair appliances.",
+      "I like repairing appliances.",
+      "I likes repairing appliances."
+    ],
+    "answer": 1,
+    "explanation": "Después de like, una acción puede ir en -ing: like repairing."
+  },
+  {
+    "id": 19,
+    "category": "Qualities",
+    "question": "What does “tidy” mean?",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
+    "options": [
+      "Ordenado",
+      "Impaciente",
+      "Deshonesto"
+    ],
+    "answer": 0,
+    "explanation": "Tidy significa ordenado; untidy es desordenado."
+  },
+  {
+    "id": 20,
+    "category": "Relative clauses",
+    "question": "Which word usually refers to people?",
+    "hint": "Lee la frase y recuerda el vocabulario o la regla de tu temario.",
+    "options": [
+      "who",
+      "where",
+      "when"
+    ],
+    "answer": 0,
+    "explanation": "Who se refiere a personas."
   }
 ]
