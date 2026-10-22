@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "category": "Formar frases",
+    "question": "Choose the correct sentence: «Yo estoy cansado».",
+    "hint": "En inglés necesitas sujeto + verbo to be + complemento.",
+    "options": [
+      "I tired.",
+      "I am tired.",
+      "Am tired I."
+    ],
+    "answer": 1,
+    "explanation": "La estructura correcta es I + am + tired. En inglés normalmente no se omite el sujeto."
+  },
+  {
+    "id": 2,
+    "category": "To be",
+    "question": "She ___ my friend.",
+    "hint": "Con he / she / it usamos is.",
+    "options": [
+      "am",
+      "are",
+      "is"
+    ],
+    "answer": 2,
+    "explanation": "Se dice “She is my friend”. “Am” se usa con I y “are” con you, we y they."
+  },
+  {
+    "id": 3,
+    "category": "Presente simple",
+    "question": "He ___ English every day.",
+    "hint": "Con he / she / it, el presente simple normalmente lleva -s.",
+    "options": [
+      "study",
+      "studies",
+      "studying"
+    ],
+    "answer": 1,
+    "explanation": "“Study” cambia a “studies” con he/she/it."
+  },
+  {
+    "id": 4,
+    "category": "Negativas",
+    "question": "I ___ understand.",
+    "hint": "Para negar en presente simple con I usamos don't + verbo base.",
+    "options": [
+      "doesn't",
+      "don't",
+      "not"
+    ],
+    "answer": 1,
+    "explanation": "La forma correcta es “I don't understand”."
+  },
+  {
+    "id": 5,
+    "category": "Preguntas",
+    "question": "___ you speak English?",
+    "hint": "Con you usamos Do para hacer preguntas en presente simple.",
+    "options": [
+      "Does",
+      "Do",
+      "Are"
+    ],
+    "answer": 1,
+    "explanation": "Se dice “Do you speak English?” porque speak es un verbo de acción en presente simple."
+  },
+  {
+    "id": 6,
+    "category": "To be",
+    "question": "Choose the correct negative: «Ella no está aquí».",
+    "hint": "She + is not / isn't.",
+    "options": [
+      "She don't here.",
+      "She isn't here.",
+      "She not is here."
+    ],
+    "answer": 1,
+    "explanation": "La forma natural es “She isn't here”."
+  },
+  {
+    "id": 7,
+    "category": "Vocabulario",
+    "question": "What does “Could you repeat that, please?” mean?",
+    "hint": "Es una frase útil cuando no entiendes algo.",
+    "options": [
+      "¿Puedes repetirlo, por favor?",
+      "¿Dónde está la estación?",
+      "Estoy aprendiendo inglés."
+    ],
+    "answer": 0,
+    "explanation": "Es una expresión educada para pedir que repitan algo."
+  },
+  {
+    "id": 8,
+    "category": "Orden de palabras",
+    "question": "Choose the correct sentence.",
+    "hint": "Sujeto + verbo + complemento.",
+    "options": [
+      "Every day English I study.",
+      "I study English every day.",
+      "Study I every day English."
+    ],
+    "answer": 1,
+    "explanation": "El orden natural es “I study English every day”."
+  },
+  {
+    "id": 9,
+    "category": "Presente simple",
+    "question": "She doesn't ___ coffee.",
+    "hint": "Después de doesn't usamos el verbo en forma base.",
+    "options": [
+      "likes",
+      "like",
+      "liking"
+    ],
+    "answer": 1,
+    "explanation": "Se dice “She doesn't like coffee”, sin -s en el verbo principal."
+  },
+  {
+    "id": 10,
+    "category": "Frases útiles",
+    "question": "How do you say «No lo entiendo»?",
+    "hint": "Usa I don't + verbo.",
+    "options": [
+      "I am not understand.",
+      "I don't understand.",
+      "I doesn't understand."
+    ],
+    "answer": 1,
+    "explanation": "La frase correcta es “I don't understand”."
+  },
+  {
+    "id": 11,
+    "category": "To be",
+    "question": "We ___ students.",
+    "hint": "Con we usamos are.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "answer": 1,
+    "explanation": "Se dice “We are students”."
+  },
+  {
+    "id": 12,
+    "category": "Vocabulario",
+    "question": "Complete: “I'm ___ English.” (Estoy aprendiendo inglés).",
+    "hint": "El verbo learn en -ing expresa una acción en curso.",
+    "options": [
+      "learn",
+      "learning",
+      "learns"
+    ],
+    "answer": 1,
+    "explanation": "La frase completa es “I'm learning English”."
+  }
+]
