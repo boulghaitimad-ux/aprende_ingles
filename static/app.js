@@ -1,12 +1,12 @@
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
-const storeKey = 'englishPathProgressSyllabusV3';
-let progress = JSON.parse(localStorage.getItem(storeKey) || '{"xp":0,"correct":0,"streak":0,"lastDate":""}');
+let progress = {xp:0,correct:0,streak:0,lastDate:''};
+fetch('/api/progress').then(r=>r.ok?r.json():null).then(data=>{if(data){progress=data;updateDashboard();}}).catch(()=>{});
 let questions = [], current = 0, selected = null, checked = false, quizCorrect = 0;
 
 function saveProgress() {
-  localStorage.setItem(storeKey, JSON.stringify(progress));
   updateDashboard();
+  fetch('/api/progress',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(progress)}).catch(()=>{});
 }
 function updateDashboard() {
   $('#xp').textContent = progress.xp;

@@ -55,3 +55,9 @@ No puedo publicar en tus cuentas de GitHub o Render desde este chat porque no te
 
 ## Plan de estudio sugerido
 Estudia 45 minutos al día: 10 min teoría, 10 min vocabulario, 10 min ejercicios, 10 min lectura/escucha en voz alta y 5 min de repaso. Usa el temario exacto que marque tu profesor; algunas páginas del PDF son escaneadas y no se pudo extraer todo su contenido.
+
+## Cuentas de usuario
+
+La aplicación incluye registro, inicio/cierre de sesión y progreso individual por cuenta mediante SQLite. Las contraseñas se guardan con hash seguro, no en texto plano.
+
+**Importante para Render:** el disco local de un servicio gratuito puede ser efímero; la base SQLite puede perderse al reiniciar o desplegar. Para conservar las cuentas y el progreso de forma fiable, configura una base de datos persistente (por ejemplo PostgreSQL) o un disco persistente compatible con tu plan. Define también la variable de entorno `SECRET_KEY` con un valor largo y aleatorio en Render.

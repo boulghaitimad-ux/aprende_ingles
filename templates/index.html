@@ -17,7 +17,7 @@
       <button class="nav-link" data-view="practice">Practicar</button>
       <button class="nav-link" data-view="roadmap">Ruta C1</button>
     </nav>
-    <div class="top-progress"><span class="online-dot"></span> Tu progreso se guarda en este navegador</div>
+    <div class="top-progress"><span class="online-dot"></span> Cuenta: {{ username }} · progreso personal <form method="post" action="{{ url_for('logout') }}" style="display:inline;margin-left:10px"><button type="submit" style="cursor:pointer;border:0;background:transparent;color:inherit;text-decoration:underline;padding:0">Cerrar sesión</button></form></div>
   </header>
 
   <main class="container">
